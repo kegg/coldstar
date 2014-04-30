@@ -1,0 +1,6 @@
+<!---
+[Default]
+dsn=
+username=
+password=
+--->
