@@ -29,7 +29,7 @@
 <cfset variables.cfcFunctions = variables.cfcInfo.functions>
 <cfset variables.functionList = "">
 <!--- loop through each function and add its name to the list. --->
-<cfloop array="#variables.cfcFunctions#" index=" variables.i">
+<cfloop array="#variables.cfcFunctions#" index="variables.i">
     <cfset variables.functionList = listAppend(variables.functionList, variables.i.name)>
 </cfloop>
 
