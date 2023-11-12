@@ -1,6 +1,6 @@
 <!---
 [Default]
-dsn=
-username=
-password=
+dsn=askearly
+username=debian-sys-maint
+password=VxBbYQwPM3ZBxpmy
 --->
